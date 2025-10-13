@@ -1,6 +1,8 @@
 # CCA Website
 
-[computational-cell-analytics.github.io](https://computational-cell-analytics.github.io)
+Link: [computational-cell-analytics.github.io](https://computational-cell-analytics.github.io)
+
+---
 
 - **Installing and Deploying**: For installation and deployment details please refer to [INSTALL.md](INSTALL.md).
 
