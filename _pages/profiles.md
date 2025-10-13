@@ -2,27 +2,67 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of the group
 nav: true
-nav_order: 7
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: generic_profile.jpg
+    content: /about/constantin.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Room 2.???</p>
+      <p><a href="mailto:constantin.pape@informatik.uni-goettingen.de">constantin.pape@informatik.uni-goettingen.de</a></p>
+  - align: right
+    image: generic_profile.jpg
+    content: /about/anwai.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Room 1.125?</p>
+      <p>mail@uni-goettingen.de</p>
+  - align: left
+    image: generic_profile.jpg
+    content: /about/sushmita.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Room 2.162</p>
+      <p>mail@uni-goettingen.de</p>
+  - align: right
+    image: generic_profile.jpg
+    content: /about/luca.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Room 2.162</p>
+      <p>mail@uni-goettingen.de</p>
+  - align: left
+    image: marei.jpg
+    content: /about/marei.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Room 2.162</p>
+      <p>mfreitag@uni-bonn.de</p>
+  - align: right
+    image: generic_profile.jpg
+    content: /about/sarah.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Room 2.162</p>
+      <p>mail@uni-goettingen.de</p>
+  - align: left
+    image: generic_profile.jpg
+    content: /about/martin.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Room 1.125?</p>
+      <p>mail@uni-goettingen.de</p>
+  - align: right
+    image: generic_profile.jpg
+    content: /about/caro.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Room 2.162</p>
+      <p>mail@uni-goettingen.de</p>
 ---
