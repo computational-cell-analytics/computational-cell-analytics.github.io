@@ -5,6 +5,7 @@
 - **Customizing**: For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
 
 ---
+
 ### About
 
 - general information about out group: update in `_pages/about.md`
@@ -12,9 +13,11 @@
 - selected publications: to add/delete publications change `selected={true/false}` in `_bibliography/papers.bib`
 
 ---
+
 ### People
 
 To add an entry:
+
 - create a new branch first
 - check if your markdown file already exists in `_pages/about/{name}.md`, create it if not
 - fill in your information in this file
@@ -35,26 +38,31 @@ To add an entry:
 - make a PR
 
 ---
+
 ### Research
 
 Keep? More information about different research projects?
 
 ---
+
 ### Publications
 
-The publications' page is generated automatically from the BibTex bibliography: [\_bibliography/papers.bib](_bibliography/papers.bib). 
+The publications' page is generated automatically from the BibTex bibliography: [\_bibliography/papers.bib](_bibliography/papers.bib).
 
 ---
+
 ### Repositories
 
 Can be selected in `_data/repositories.yml`
 
 ---
+
 ### Teaching
 
 Update in `_pages/teaching.md`
 
 ---
+
 ### CV
 
 Keep? Delete?
