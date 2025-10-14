@@ -17,12 +17,12 @@ profiles:
       <p>Room 2.???</p>
       <p><a href="mailto:constantin.pape@informatik.uni-goettingen.de">constantin.pape@informatik.uni-goettingen.de</a></p>
   - align: right
-    image: generic_profile.jpg
+    image: anwai.jpeg
     content: /about/anwai.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Room 1.125?</p>
-      <p>mail@uni-goettingen.de</p>
+      <p>anwai.archit@uni-goettingen.de</p>
   - align: left
     image: generic_profile.jpg
     content: /about/sushmita.md
