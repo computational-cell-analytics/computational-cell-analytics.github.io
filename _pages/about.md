@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institute of Computer Science</a> Georg-August University Göttingen
+subtitle: <a href="https://www.uni-goettingen.de/en/institute+of+computer+science/619480.html">Institute of Computer Science</a>, Georg-August Universität Göttingen
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 
 We develop deep learning and AI methods for biology and medicine. We mainly develop computer vision methods for the analysis of biomedical image data, but are also interested in combining different modalities, such as image and omics data. Our two main research areas are building (vision) foundation models for biology and medicine and protein structure analysis in cryogenic electron microscopy and in super-resolution microscopy. We apply these methods to challenging biomedical research questions in collaboration with life scientists.
 
-We are dedicated to open source and open science and we are involved in multiple related efforts. In particular, the [bioimage.io modelzoo](https://bioimage.io/#/models), a resource to share deep learning models for microscopy image analysis and [ome.ngff](https://www.nature.com/articles/s41592-021-01326-w), a new image data format that supports efficient storage of large data and on-demand access in the cloud, and [MoBIE](https://mobie.github.io), a Fiji plugin for exploring and sharing large multi-modal image data.
+We are dedicated to open source and open science and we are involved in multiple related efforts. In particular, the [BioImage.IO ModelZoo](https://bioimage.io/#/models), a resource to share deep learning models for microscopy image analysis and [OME.NGFF](https://www.nature.com/articles/s41592-021-01326-w), a new image data format that supports efficient storage of large data and on-demand access in the cloud, and [MoBIE](https://mobie.github.io), a Fiji plugin for exploring and sharing large multi-modal image data.
 
 Our research is funded and supported by the DFG through a Sachbeihilfe, the [SFB1286 on Quantitative Synaptology](https://www.sfb1286.de), and the Multiscale Bioimaging Cluster of Excellence ([MBExC](https://mbexc.de/de/)). We are part of the [CAIMed](https://caimed.de/en/) consortium.
 
