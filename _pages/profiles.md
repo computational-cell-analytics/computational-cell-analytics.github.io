@@ -22,7 +22,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Room 1.123</p>
-      <p>anwai.archit@uni-goettingen.de</p>
+      <p><a href="mainto:anwai.archit@uni-goettingen.de">anwai.archit@uni-goettingen.de</a></p>
   - align: left
     image: generic_profile.jpg
     content: /about/sushmita.md
