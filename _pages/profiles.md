@@ -21,7 +21,7 @@ profiles:
     content: /about/anwai.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Room 1.125?</p>
+      <p>Room 1.123</p>
       <p>anwai.archit@uni-goettingen.de</p>
   - align: left
     image: generic_profile.jpg
@@ -56,7 +56,7 @@ profiles:
     content: /about/martin.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Room 1.125?</p>
+      <p>Room 1.123</p>
       <p>mail@uni-goettingen.de</p>
   - align: right
     image: generic_profile.jpg
