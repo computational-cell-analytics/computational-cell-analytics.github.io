@@ -37,7 +37,7 @@ To add an entry:
       <p>mail@uni-goettingen.de</p>
   ```
   at the end of the list; alternate between left and right alignment
-- to add a picture, upload a picture in `assets/img/` and replace `generic_profile.jpg` with your file name
+- to add a picture, upload a picture in `assets/img/` (please use a quadratic one) and replace `generic_profile.jpg` with your file name
 - also adjust your room number and mail address
 - make a PR
 
