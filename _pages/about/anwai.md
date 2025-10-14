@@ -1,2 +1,4 @@
 **Anwai Archit** \
-PhD student
+PhD Student
+
+Developing Vision Foundation Models for Bio(medical)-Image Analysis
